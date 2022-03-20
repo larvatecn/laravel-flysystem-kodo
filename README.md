@@ -24,7 +24,7 @@ composer require larva/laravel-flysystem-kodo -vv
     'access_key' => env('QINIU_ACCESS_KEY'),
     'secret_key' => env('QINIU_SECRET_KEY'),
     'bucket' => env('QINIU_BUCKET'),
-    'prefix' => env('QINIU_PREFIX'), // optional
+    'root' => env('QINIU_PREFIX'), // optional
     'url' => env('QINIU_BUCKET_URL'),
     'visibility' => 'private',
 ],
