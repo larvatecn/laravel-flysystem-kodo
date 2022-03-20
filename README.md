@@ -6,7 +6,7 @@
     <a href="https://packagist.org/packages/larva/laravel-flysystem-kodo"><img src="https://poser.pugx.org/larva/laravel-flysystem-kodo/license" alt="License"></a>
 </p>
 
-适用于 Laravel 的阿里云 OSS 适配器，完整支持阿里云 OSS 所有方法和操作。
+适用于 Laravel 的七牛 Kodo 适配器，完整支持七牛 Kodo 所有方法和操作。
 
 ## 安装
 
